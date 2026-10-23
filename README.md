@@ -12,3 +12,4 @@
 - [SleepingGiant](https://github.com/sj-park-kr/SleepingGiant) — 급등주 찾기 프로그램
 - [hackathon-harness](https://github.com/sj-park-kr/hackathon-harness) — AI 해커톤용 Claude Code 하네스
 - [sk-hynix-hackathon](https://github.com/sj-park-kr/sk-hynix-hackathon) — SK하이닉스 해커톤 대비 연습실
+- [matdangkke](https://github.com/sj-park-kr/matdangkke) — 연인 등 서로의 다툼을 중재해 주는 AI 상담사
